@@ -2,6 +2,8 @@
 This is a chrome extension <a href="https://chrome.google.com/webstore/detail/markit-highlighter-and-no/oilpcbohncpdjdadofhbldfmojneciop?hl=en-US" target="_blank">link</a> that lets you highlight important text on any web page. Revisit the page in 1 minute, 1 week, or 1 year - your data will always be there.
 
 ## Technologies
+
+
 1. (Vanilla) JavaScript
 2. Google API
 
